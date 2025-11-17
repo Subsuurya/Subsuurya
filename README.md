@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Suurya!
-- 👀 I’m interested in programmingggg~
-- 🌱 I’m currently learning react framework, web dev and front end stuffz~
-- 💞️ I’m looking to collaborate on. IDK
-- 📫 How to reach me insta! *suurya7x*
+- 👀 I’m interested in living.
+- 🌱 I’m currently alive.
+- 💞️ I’m looking to continue living.
+- 📫 How to reach me, instagram *Suurya7x*
 
 <!---
 Subsuurya/Subsuurya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
