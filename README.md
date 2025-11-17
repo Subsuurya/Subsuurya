@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Suurya!
-- 👀 I’m interested in living.
-- 🌱 I’m currently alive.
-- 💞️ I’m looking to continue living.
+- 👀 I’m interested creating value.
+- 🌱 I’m currently valuable.
+- 💞️ I’m looking to bring more value into the world.
 - 📫 How to reach me, instagram *Suurya7x*
 
 <!---
